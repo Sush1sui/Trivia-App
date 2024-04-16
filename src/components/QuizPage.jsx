@@ -144,7 +144,7 @@ export default function QuizPage(props) {
             }
             <header className="quiz--header">
                 <h1>Sush1sui's Trivia</h1>
-                <h3>From <a href="https://opentdb.com/api_config.php">opentdb</a></h3>
+                <h3>From <a href="https://opentdb.com/api_config.php" target="_blank">opentdb</a></h3>
             </header>
             <div className="quiz-body">
                 {   
